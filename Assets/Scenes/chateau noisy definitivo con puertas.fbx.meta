@@ -1,0 +1,214 @@
+fileFormatVersion: 2
+guid: 55d07feecd652e340b844591a4d48899
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: "arbol peque\xF1o decorativo"
+    100002: arbol silvestre rojizo
+    100004: arbol silvestre rojizo.001
+    100006: arbustito
+    100008: Bush_05.000
+    100010: Bush_05.002
+    100012: Bush_05.003
+    100014: Bush_05.005
+    100016: casa entera
+    100018: //RootNode
+    100020: chimeneas
+    100022: covertizo
+    100024: jardin
+    100026: letrero exterior
+    100028: marmitas
+    100030: muralla sola
+    100032: puerta  3
+    100034: puerta iglesia
+    100036: puerta principal
+    100038: puertas
+    100040: "puertas ba\xF1os"
+    100042: reloj
+    100044: Sphere
+    100046: torre principal merged
+    400000: "arbol peque\xF1o decorativo"
+    400002: arbol silvestre rojizo
+    400004: arbol silvestre rojizo.001
+    400006: arbustito
+    400008: Bush_05.000
+    400010: Bush_05.002
+    400012: Bush_05.003
+    400014: Bush_05.005
+    400016: casa entera
+    400018: //RootNode
+    400020: chimeneas
+    400022: covertizo
+    400024: jardin
+    400026: letrero exterior
+    400028: marmitas
+    400030: muralla sola
+    400032: puerta  3
+    400034: puerta iglesia
+    400036: puerta principal
+    400038: puertas
+    400040: "puertas ba\xF1os"
+    400042: reloj
+    400044: Sphere
+    400046: torre principal merged
+    2100000: Material.001
+    2100002: uvs 05
+    2100004: JARDIN SU PUTA MADRE
+    2100006: arbustos
+    2100008: Material
+    2100010: No Name
+    2300000: "arbol peque\xF1o decorativo"
+    2300002: arbol silvestre rojizo
+    2300004: arbol silvestre rojizo.001
+    2300006: arbustito
+    2300008: Bush_05.000
+    2300010: Bush_05.002
+    2300012: Bush_05.003
+    2300014: Bush_05.005
+    2300016: casa entera
+    2300018: chimeneas
+    2300020: covertizo
+    2300022: jardin
+    2300024: letrero exterior
+    2300026: marmitas
+    2300028: muralla sola
+    2300030: puerta  3
+    2300032: puerta iglesia
+    2300034: puerta principal
+    2300036: puertas
+    2300038: "puertas ba\xF1os"
+    2300040: reloj
+    2300042: Sphere
+    2300044: torre principal merged
+    3300000: "arbol peque\xF1o decorativo"
+    3300002: arbol silvestre rojizo
+    3300004: arbol silvestre rojizo.001
+    3300006: arbustito
+    3300008: Bush_05.000
+    3300010: Bush_05.002
+    3300012: Bush_05.003
+    3300014: Bush_05.005
+    3300016: casa entera
+    3300018: chimeneas
+    3300020: covertizo
+    3300022: jardin
+    3300024: letrero exterior
+    3300026: marmitas
+    3300028: muralla sola
+    3300030: puerta  3
+    3300032: puerta iglesia
+    3300034: puerta principal
+    3300036: puertas
+    3300038: "puertas ba\xF1os"
+    3300040: reloj
+    3300042: Sphere
+    3300044: torre principal merged
+    4300000: "puertas ba\xF1os"
+    4300002: puerta principal
+    4300004: puerta  3
+    4300006: puerta iglesia
+    4300008: puertas
+    4300010: letrero exterior
+    4300012: Sphere
+    4300014: arbol silvestre rojizo.001
+    4300016: Bush_05.000
+    4300018: Bush_05.005
+    4300020: "arbol peque\xF1o decorativo"
+    4300022: Bush_05.003
+    4300024: Bush_05.002
+    4300026: arbustito
+    4300028: jardin
+    4300030: arbol silvestre rojizo
+    4300032: marmitas
+    4300034: reloj
+    4300036: covertizo
+    4300038: torre principal merged
+    4300040: muralla sola
+    4300042: chimeneas
+    4300044: casa entera
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
