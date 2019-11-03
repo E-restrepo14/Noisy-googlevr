@@ -44,6 +44,7 @@ ModelImporter:
     100076: Sphere
     100078: Sphere_lowpoly
     100080: torre_principal_merged
+    100082: marmitas_001
     400000: arbol_peque_o_decorativo
     400002: arbol_silvestre_rojizo
     400004: arbol_silvestre_rojizo_001
@@ -85,6 +86,7 @@ ModelImporter:
     400076: Sphere
     400078: Sphere_lowpoly
     400080: torre_principal_merged
+    400082: marmitas_001
     2100000: unnamed
     2100002: Material_001
     2100004: Material_001__castle_uvs_2__psd_001
@@ -139,6 +141,7 @@ ModelImporter:
     2300074: Sphere
     2300076: Sphere_lowpoly
     2300078: torre_principal_merged
+    2300080: marmitas_001
     3300000: arbol_peque_o_decorativo
     3300002: arbol_silvestre_rojizo
     3300004: arbol_silvestre_rojizo_001
@@ -179,6 +182,7 @@ ModelImporter:
     3300074: Sphere
     3300076: Sphere_lowpoly
     3300078: torre_principal_merged
+    3300080: marmitas_001
     4300000: Sphere_lowpoly
     4300002: chateau_collider
     4300004: puertas_corredor_izquierda
@@ -219,6 +223,7 @@ ModelImporter:
     4300074: muralla_sola
     4300076: chimeneas
     4300078: casa_entera
+    4300080: marmitas_001
     7400000: Default Take
     9500000: //RootNode
   externalObjects: {}
