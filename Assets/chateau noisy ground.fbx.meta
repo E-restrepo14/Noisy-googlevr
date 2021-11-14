@@ -1,0 +1,211 @@
+fileFormatVersion: 2
+guid: 2e9fe141818412e468fd83302df1126a
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: noisy terrain
+    100004: Sphere
+    100006: Sphere lowpoly
+    400000: //RootNode
+    400002: noisy terrain
+    400004: Sphere
+    400006: Sphere lowpoly
+    2100000: grass
+    2100002: concrete
+    2100004: No Name
+    2100006: uvs 05
+    2300000: //RootNode
+    2300002: noisy terrain
+    2300004: Sphere
+    2300006: Sphere lowpoly
+    3300000: //RootNode
+    3300002: noisy terrain
+    3300004: Sphere
+    3300006: Sphere lowpoly
+    4300000: terreno.001
+    4300002: noisy terrain.000
+    4300004: noisy terrain
+    4300006: Sphere lowpoly
+    4300008: Sphere
+    7400000: terreno.001|VENTANA 1.001Action
+    7400002: "noisy terrain.000|arbol peque\xF1o decorativoAction"
+    7400004: noisy terrain.000|arbol silvestre rojizo.001Action
+    7400006: noisy terrain.000|arbol silvestre rojizoAction
+    7400008: noisy terrain.000|Bush_05.000Action
+    7400010: noisy terrain.000|Bush_05.002Action
+    7400012: noisy terrain.000|Bush_05.003Action
+    7400014: noisy terrain.000|Bush_05.005Action
+    7400016: noisy terrain.000|casa enteraAction
+    7400018: noisy terrain.000|chateau colliderAction
+    7400020: noisy terrain.000|chimeneasAction
+    7400022: noisy terrain.000|covertizoAction
+    7400024: noisy terrain.000|CubeAction
+    7400026: noisy terrain.000|letrero exteriorAction
+    7400028: noisy terrain.000|marmitas.001Action
+    7400030: noisy terrain.000|marmitasAction
+    7400032: noisy terrain.000|muralla solaAction
+    7400034: noisy terrain.000|puerta back left inAction
+    7400036: noisy terrain.000|puerta back left outAction
+    7400038: noisy terrain.000|puerta back main inAction
+    7400040: noisy terrain.000|puerta back main outAction
+    7400042: noisy terrain.000|puerta back right inAction
+    7400044: noisy terrain.000|puerta back right outAction
+    7400046: noisy terrain.000|puerta church inAction
+    7400048: noisy terrain.000|puerta church outAction
+    7400050: noisy terrain.000|puerta front left in Action
+    7400052: noisy terrain.000|puerta front left outAction
+    7400054: noisy terrain.000|puerta front main inAction
+    7400056: noisy terrain.000|puerta front main outAction
+    7400058: noisy terrain.000|puerta front right inAction
+    7400060: noisy terrain.000|puerta front right outAction
+    7400062: noisy terrain.000|puertas corredor derechaAction
+    7400064: noisy terrain.000|puertas corredor izquierdaAction
+    7400066: noisy terrain.000|puertas corredor superiorAction
+    7400068: noisy terrain.000|puertas gimnasioAction
+    7400070: noisy terrain.000|puertas vestieres 1Action
+    7400072: noisy terrain.000|puertas vestieres 2Action
+    7400074: noisy terrain.000|Sphere lowpolyAction
+    7400076: noisy terrain.000|SphereAction
+    7400078: noisy terrain.000|torre principal mergedAction
+    7400080: noisy terrain.000|VENTANA 1.001Action
+    7400082: "noisy terrain|arbol peque\xF1o decorativoAction"
+    7400084: noisy terrain|arbol silvestre rojizo.001Action
+    7400086: noisy terrain|arbol silvestre rojizoAction
+    7400088: noisy terrain|Bush_05.000Action
+    7400090: noisy terrain|Bush_05.002Action
+    7400092: noisy terrain|Bush_05.003Action
+    7400094: noisy terrain|Bush_05.005Action
+    7400096: noisy terrain|casa enteraAction
+    7400098: noisy terrain|chateau colliderAction
+    7400100: noisy terrain|chimeneasAction
+    7400102: noisy terrain|covertizoAction
+    7400104: noisy terrain|CubeAction
+    7400106: noisy terrain|letrero exteriorAction
+    7400108: noisy terrain|marmitas.001Action
+    7400110: noisy terrain|marmitasAction
+    7400112: noisy terrain|muralla solaAction
+    7400114: noisy terrain|puerta back left inAction
+    7400116: noisy terrain|puerta back left outAction
+    7400118: noisy terrain|puerta back main inAction
+    7400120: noisy terrain|puerta back main outAction
+    7400122: noisy terrain|puerta back right inAction
+    7400124: noisy terrain|puerta back right outAction
+    7400126: noisy terrain|puerta church inAction
+    7400128: noisy terrain|puerta church outAction
+    7400130: noisy terrain|puerta front left in Action
+    7400132: noisy terrain|puerta front left outAction
+    7400134: noisy terrain|puerta front main inAction
+    7400136: noisy terrain|puerta front main outAction
+    7400138: noisy terrain|puerta front right inAction
+    7400140: noisy terrain|puerta front right outAction
+    7400142: noisy terrain|puertas corredor derechaAction
+    7400144: noisy terrain|puertas corredor izquierdaAction
+    7400146: noisy terrain|puertas corredor superiorAction
+    7400148: noisy terrain|puertas gimnasioAction
+    7400150: noisy terrain|puertas vestieres 1Action
+    7400152: noisy terrain|puertas vestieres 2Action
+    7400154: noisy terrain|Sphere lowpolyAction
+    7400156: noisy terrain|SphereAction
+    7400158: noisy terrain|torre principal mergedAction
+    7400160: noisy terrain|VENTANA 1.001Action
+    7400162: Sphere lowpoly|chateau colliderAction
+    7400164: Sphere lowpoly|CubeAction
+    7400166: Sphere lowpoly|VENTANA 1.001Action
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: concrete
+    second: {fileID: 2100000, guid: 1d57a106517f02a429fab4c4d5c6b74d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: grass
+    second: {fileID: 2100000, guid: 4b2a9ed9cd7d5be4f92a8a3cf9240a63, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
