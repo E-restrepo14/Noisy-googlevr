@@ -1,0 +1,306 @@
+fileFormatVersion: 2
+guid: e3576e2385d0a9f44a2b49387baf5fb7
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: "arbol peque\xF1o decorativo"
+    100002: arbol silvestre rojizo
+    100004: arbol silvestre rojizo.001
+    100006: Bush_05.000
+    100008: Bush_05.002
+    100010: Bush_05.003
+    100012: Bush_05.005
+    100014: casa entera
+    100016: chateau collider
+    100018: //RootNode
+    100020: chimeneas
+    100022: covertizo
+    100024: letrero exterior
+    100026: marmitas
+    100028: marmitas.001
+    100030: muralla sola
+    100032: noisy terrain
+    100034: puerta back left in
+    100036: puerta back left out
+    100038: puerta back main in
+    100040: puerta back main out
+    100042: puerta back right in
+    100044: puerta back right out
+    100046: puerta church in
+    100048: puerta church out
+    100050: 'puerta front left in '
+    100052: puerta front left out
+    100054: puerta front main in
+    100056: puerta front main out
+    100058: puerta front right in
+    100060: puerta front right out
+    100062: puertas corredor derecha
+    100064: puertas corredor izquierda
+    100066: puertas corredor superior
+    100068: puertas gimnasio
+    100070: puertas vestieres 1
+    100072: puertas vestieres 2
+    100074: Sphere
+    100076: Sphere lowpoly
+    100078: terreno.002
+    100080: torre principal merged
+    100082: skyball
+    400000: "arbol peque\xF1o decorativo"
+    400002: arbol silvestre rojizo
+    400004: arbol silvestre rojizo.001
+    400006: Bush_05.000
+    400008: Bush_05.002
+    400010: Bush_05.003
+    400012: Bush_05.005
+    400014: casa entera
+    400016: chateau collider
+    400018: //RootNode
+    400020: chimeneas
+    400022: covertizo
+    400024: letrero exterior
+    400026: marmitas
+    400028: marmitas.001
+    400030: muralla sola
+    400032: noisy terrain
+    400034: puerta back left in
+    400036: puerta back left out
+    400038: puerta back main in
+    400040: puerta back main out
+    400042: puerta back right in
+    400044: puerta back right out
+    400046: puerta church in
+    400048: puerta church out
+    400050: 'puerta front left in '
+    400052: puerta front left out
+    400054: puerta front main in
+    400056: puerta front main out
+    400058: puerta front right in
+    400060: puerta front right out
+    400062: puertas corredor derecha
+    400064: puertas corredor izquierda
+    400066: puertas corredor superior
+    400068: puertas gimnasio
+    400070: puertas vestieres 1
+    400072: puertas vestieres 2
+    400074: Sphere
+    400076: Sphere lowpoly
+    400078: terreno.002
+    400080: torre principal merged
+    400082: skyball
+    2100000: grass
+    2100002: concrete
+    2100004: materiales interiores
+    2100006: materiales exteriores
+    2100008: No Name
+    2100010: uvs 05
+    2100012: JARDIN SU PUTA MADRE
+    2100014: arbustos
+    2300000: "arbol peque\xF1o decorativo"
+    2300002: arbol silvestre rojizo
+    2300004: arbol silvestre rojizo.001
+    2300006: Bush_05.000
+    2300008: Bush_05.002
+    2300010: Bush_05.003
+    2300012: Bush_05.005
+    2300014: casa entera
+    2300016: chateau collider
+    2300018: chimeneas
+    2300020: covertizo
+    2300022: letrero exterior
+    2300024: marmitas
+    2300026: marmitas.001
+    2300028: muralla sola
+    2300030: noisy terrain
+    2300032: puerta back left in
+    2300034: puerta back left out
+    2300036: puerta back main in
+    2300038: puerta back main out
+    2300040: puerta back right in
+    2300042: puerta back right out
+    2300044: puerta church in
+    2300046: puerta church out
+    2300048: 'puerta front left in '
+    2300050: puerta front left out
+    2300052: puerta front main in
+    2300054: puerta front main out
+    2300056: puerta front right in
+    2300058: puerta front right out
+    2300060: puertas corredor derecha
+    2300062: puertas corredor izquierda
+    2300064: puertas corredor superior
+    2300066: puertas gimnasio
+    2300068: puertas vestieres 1
+    2300070: puertas vestieres 2
+    2300072: Sphere
+    2300074: Sphere lowpoly
+    2300076: terreno.002
+    2300078: torre principal merged
+    2300080: skyball
+    3300000: "arbol peque\xF1o decorativo"
+    3300002: arbol silvestre rojizo
+    3300004: arbol silvestre rojizo.001
+    3300006: Bush_05.000
+    3300008: Bush_05.002
+    3300010: Bush_05.003
+    3300012: Bush_05.005
+    3300014: casa entera
+    3300016: chateau collider
+    3300018: chimeneas
+    3300020: covertizo
+    3300022: letrero exterior
+    3300024: marmitas
+    3300026: marmitas.001
+    3300028: muralla sola
+    3300030: noisy terrain
+    3300032: puerta back left in
+    3300034: puerta back left out
+    3300036: puerta back main in
+    3300038: puerta back main out
+    3300040: puerta back right in
+    3300042: puerta back right out
+    3300044: puerta church in
+    3300046: puerta church out
+    3300048: 'puerta front left in '
+    3300050: puerta front left out
+    3300052: puerta front main in
+    3300054: puerta front main out
+    3300056: puerta front right in
+    3300058: puerta front right out
+    3300060: puertas corredor derecha
+    3300062: puertas corredor izquierda
+    3300064: puertas corredor superior
+    3300066: puertas gimnasio
+    3300068: puertas vestieres 1
+    3300070: puertas vestieres 2
+    3300072: Sphere
+    3300074: Sphere lowpoly
+    3300076: terreno.002
+    3300078: torre principal merged
+    3300080: skyball
+    4300000: noisy terrain
+    4300002: terreno.002
+    4300004: marmitas.001
+    4300006: Sphere lowpoly
+    4300008: chateau collider
+    4300010: puertas corredor izquierda
+    4300012: puertas corredor derecha
+    4300014: puertas vestieres 2
+    4300016: puertas vestieres 1
+    4300018: puertas gimnasio
+    4300020: puerta back left out
+    4300022: puerta back right in
+    4300024: puerta back right out
+    4300026: puerta back main in
+    4300028: puerta back main out
+    4300030: puerta church in
+    4300032: puerta front left out
+    4300034: puerta front right in
+    4300036: puerta front right out
+    4300038: puerta front main in
+    4300040: puertas corredor superior
+    4300042: puerta front main out
+    4300044: 'puerta front left in '
+    4300046: puerta church out
+    4300048: puerta back left in
+    4300050: letrero exterior
+    4300052: Sphere
+    4300054: arbol silvestre rojizo.001
+    4300056: Bush_05.000
+    4300058: Bush_05.005
+    4300060: "arbol peque\xF1o decorativo"
+    4300062: Bush_05.003
+    4300064: Bush_05.002
+    4300066: arbol silvestre rojizo
+    4300068: marmitas
+    4300070: covertizo
+    4300072: torre principal merged
+    4300074: muralla sola
+    4300076: chimeneas
+    4300078: casa entera
+    4300080: skyball
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

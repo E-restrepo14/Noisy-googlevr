@@ -1,0 +1,799 @@
+fileFormatVersion: 2
+guid: 19af62f0df6af6648a61ea1d8e2ad757
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: "arbol peque\xF1o decorativo"
+    100002: arbol silvestre rojizo
+    100004: arbol silvestre rojizo.001
+    100006: arbustito
+    100008: Bush_05.000
+    100010: Bush_05.002
+    100012: Bush_05.003
+    100014: Bush_05.005
+    100016: casa entera
+    100018: //RootNode
+    100020: chimeneas
+    100022: covertizo
+    100024: jardin
+    100026: marmitas
+    100028: muralla sola
+    100030: reloj
+    100032: Sun
+    100034: torre principal merged
+    100036: Sphere
+    100038: covertizo.001
+    100040: letrero exterior
+    100042: puertas
+    100044: puerta  3
+    100046: puerta iglesia
+    100048: puerta principal
+    100050: "puertas ba\xF1os"
+    100052: puerta back left in
+    100054: puerta back left out
+    100056: puerta back main in
+    100058: puerta back main out
+    100060: puerta back right in
+    100062: puerta back right out
+    100064: puerta church in
+    100066: puerta church out
+    100068: 'puerta front left in '
+    100070: puerta front left out
+    100072: puerta front main in
+    100074: puerta front main out
+    100076: puerta front right in
+    100078: puerta front right out
+    100080: puertas corredor derecha
+    100082: puertas corredor izquierda
+    100084: puertas corredor superior
+    100086: puertas gimnasio
+    100088: puertas vestieres 1
+    100090: puertas vestieres 2
+    100092: chateau collider
+    100094: Sphere lowpoly
+    100096: marmitas.001
+    100098: VENTANA 1.001
+    100100: terreno
+    400000: "arbol peque\xF1o decorativo"
+    400002: arbol silvestre rojizo
+    400004: arbol silvestre rojizo.001
+    400006: arbustito
+    400008: Bush_05.000
+    400010: Bush_05.002
+    400012: Bush_05.003
+    400014: Bush_05.005
+    400016: casa entera
+    400018: //RootNode
+    400020: chimeneas
+    400022: covertizo
+    400024: jardin
+    400026: marmitas
+    400028: muralla sola
+    400030: reloj
+    400032: Sun
+    400034: torre principal merged
+    400036: Sphere
+    400038: covertizo.001
+    400040: letrero exterior
+    400042: puertas
+    400044: puerta  3
+    400046: puerta iglesia
+    400048: puerta principal
+    400050: "puertas ba\xF1os"
+    400052: puerta back left in
+    400054: puerta back left out
+    400056: puerta back main in
+    400058: puerta back main out
+    400060: puerta back right in
+    400062: puerta back right out
+    400064: puerta church in
+    400066: puerta church out
+    400068: 'puerta front left in '
+    400070: puerta front left out
+    400072: puerta front main in
+    400074: puerta front main out
+    400076: puerta front right in
+    400078: puerta front right out
+    400080: puertas corredor derecha
+    400082: puertas corredor izquierda
+    400084: puertas corredor superior
+    400086: puertas gimnasio
+    400088: puertas vestieres 1
+    400090: puertas vestieres 2
+    400092: chateau collider
+    400094: Sphere lowpoly
+    400096: marmitas.001
+    400098: VENTANA 1.001
+    400100: terreno
+    2100000: JARDIN SU PUTA MADRE
+    2100002: arbustos
+    2100004: Material.001
+    2100006: Material
+    2100008: No Name
+    2100010: Material.002
+    2100012: uvs 05
+    2300000: "arbol peque\xF1o decorativo"
+    2300002: arbol silvestre rojizo
+    2300004: arbol silvestre rojizo.001
+    2300006: arbustito
+    2300008: Bush_05.000
+    2300010: Bush_05.002
+    2300012: Bush_05.003
+    2300014: Bush_05.005
+    2300016: casa entera
+    2300018: chimeneas
+    2300020: covertizo
+    2300022: jardin
+    2300024: marmitas
+    2300026: muralla sola
+    2300028: reloj
+    2300030: torre principal merged
+    2300032: Sphere
+    2300034: covertizo.001
+    2300036: letrero exterior
+    2300038: puertas
+    2300040: puerta  3
+    2300042: puerta iglesia
+    2300044: puerta principal
+    2300046: "puertas ba\xF1os"
+    2300048: puerta back left in
+    2300050: puerta back left out
+    2300052: puerta back main in
+    2300054: puerta back main out
+    2300056: puerta back right in
+    2300058: puerta back right out
+    2300060: puerta church in
+    2300062: puerta church out
+    2300064: 'puerta front left in '
+    2300066: puerta front left out
+    2300068: puerta front main in
+    2300070: puerta front main out
+    2300072: puerta front right in
+    2300074: puerta front right out
+    2300076: puertas corredor derecha
+    2300078: puertas corredor izquierda
+    2300080: puertas corredor superior
+    2300082: puertas gimnasio
+    2300084: puertas vestieres 1
+    2300086: puertas vestieres 2
+    2300088: chateau collider
+    2300090: Sphere lowpoly
+    2300092: marmitas.001
+    2300094: VENTANA 1.001
+    2300096: terreno
+    3300000: "arbol peque\xF1o decorativo"
+    3300002: arbol silvestre rojizo
+    3300004: arbol silvestre rojizo.001
+    3300006: arbustito
+    3300008: Bush_05.000
+    3300010: Bush_05.002
+    3300012: Bush_05.003
+    3300014: Bush_05.005
+    3300016: casa entera
+    3300018: chimeneas
+    3300020: covertizo
+    3300022: jardin
+    3300024: marmitas
+    3300026: muralla sola
+    3300028: reloj
+    3300030: torre principal merged
+    3300032: Sphere
+    3300034: covertizo.001
+    3300036: letrero exterior
+    3300038: puertas
+    3300040: puerta  3
+    3300042: puerta iglesia
+    3300044: puerta principal
+    3300046: "puertas ba\xF1os"
+    3300048: puerta back left in
+    3300050: puerta back left out
+    3300052: puerta back main in
+    3300054: puerta back main out
+    3300056: puerta back right in
+    3300058: puerta back right out
+    3300060: puerta church in
+    3300062: puerta church out
+    3300064: 'puerta front left in '
+    3300066: puerta front left out
+    3300068: puerta front main in
+    3300070: puerta front main out
+    3300072: puerta front right in
+    3300074: puerta front right out
+    3300076: puertas corredor derecha
+    3300078: puertas corredor izquierda
+    3300080: puertas corredor superior
+    3300082: puertas gimnasio
+    3300084: puertas vestieres 1
+    3300086: puertas vestieres 2
+    3300088: chateau collider
+    3300090: Sphere lowpoly
+    3300092: marmitas.001
+    3300094: VENTANA 1.001
+    3300096: terreno
+    4300000: arbol silvestre rojizo.001
+    4300002: Bush_05.000
+    4300004: Bush_05.005
+    4300006: "arbol peque\xF1o decorativo"
+    4300008: Bush_05.003
+    4300010: Bush_05.002
+    4300012: arbustito
+    4300014: jardin
+    4300016: arbol silvestre rojizo
+    4300018: marmitas
+    4300020: reloj
+    4300022: covertizo
+    4300024: torre principal merged
+    4300026: muralla sola
+    4300028: chimeneas
+    4300030: casa entera
+    4300032: Sphere
+    4300034: covertizo.001
+    4300036: letrero exterior
+    4300038: puertas
+    4300040: "puertas ba\xF1os"
+    4300042: puerta principal
+    4300044: puerta  3
+    4300046: puerta iglesia
+    4300048: puertas corredor izquierda
+    4300050: puertas corredor derecha
+    4300052: puertas vestieres 2
+    4300054: puertas vestieres 1
+    4300056: puertas gimnasio
+    4300058: puerta back left out
+    4300060: puerta back right in
+    4300062: puerta back right out
+    4300064: puerta back main in
+    4300066: puerta back main out
+    4300068: puerta church in
+    4300070: puerta front left out
+    4300072: puerta front right in
+    4300074: puerta front right out
+    4300076: puerta front main in
+    4300078: puertas corredor superior
+    4300080: puerta front main out
+    4300082: 'puerta front left in '
+    4300084: puerta church out
+    4300086: puerta back left in
+    4300088: Sphere lowpoly
+    4300090: chateau collider
+    4300092: marmitas.001
+    4300094: VENTANA 1.001
+    4300096: terreno
+    7400000: arbol silvestre rojizo.001|casa entera.002|casa entera.001|CUBO BASEAction.001|casa
+      entera
+    7400002: arbol silvestre rojizo.001|casa entera.003|casa entera|CUBO BASEAction.001|casa
+      entera|CUB
+    7400004: arbol silvestre rojizo.001|chimeneas.001|chimeneas|CUBO BASEAction.001|chimeneas|CUBO
+      BASE
+    7400006: arbol silvestre rojizo.001|covertizo de arcos.001|covertizo de arcos|CUBO
+      BASEAction.001|c
+    7400008: arbol silvestre rojizo.001|covertizo.001|covertizo|CUBO BASEAction.001|covertizo|CUBO
+      BASE
+    7400010: arbol silvestre rojizo.001|iglesia noisy.001|iglesia noisy|CUBO BASEAction.001|iglesia
+      noi
+    7400012: arbol silvestre rojizo.001|muralla sola.001|muralla sola|CUBO BASEAction.001|muralla
+      sola|
+    7400014: arbol silvestre rojizo.001|porteros.001|porteros|CUBO BASEAction.001|porteros|CUBO
+      BASEAct
+    7400016: Bush_05.000|casa entera.002|casa entera.001|CUBO BASEAction.001|casa
+      entera
+    7400018: Bush_05.000|casa entera.003|casa entera|CUBO BASEAction.001|casa entera|CUB
+    7400020: Bush_05.000|chimeneas.001|chimeneas|CUBO BASEAction.001|chimeneas|CUBO
+      BASE
+    7400022: Bush_05.000|covertizo de arcos.001|covertizo de arcos|CUBO BASEAction.001|c
+    7400024: Bush_05.000|covertizo.001|covertizo|CUBO BASEAction.001|covertizo|CUBO
+      BASE
+    7400026: Bush_05.000|iglesia noisy.001|iglesia noisy|CUBO BASEAction.001|iglesia
+      noi
+    7400028: Bush_05.000|muralla sola.001|muralla sola|CUBO BASEAction.001|muralla
+      sola|
+    7400030: Bush_05.000|porteros.001|porteros|CUBO BASEAction.001|porteros|CUBO BASEAct
+    7400032: Bush_05.005|casa entera.002|casa entera.001|CUBO BASEAction.001|casa
+      entera
+    7400034: Bush_05.005|casa entera.003|casa entera|CUBO BASEAction.001|casa entera|CUB
+    7400036: Bush_05.005|chimeneas.001|chimeneas|CUBO BASEAction.001|chimeneas|CUBO
+      BASE
+    7400038: Bush_05.005|covertizo de arcos.001|covertizo de arcos|CUBO BASEAction.001|c
+    7400040: Bush_05.005|covertizo.001|covertizo|CUBO BASEAction.001|covertizo|CUBO
+      BASE
+    7400042: Bush_05.005|iglesia noisy.001|iglesia noisy|CUBO BASEAction.001|iglesia
+      noi
+    7400044: Bush_05.005|muralla sola.001|muralla sola|CUBO BASEAction.001|muralla
+      sola|
+    7400046: Bush_05.005|porteros.001|porteros|CUBO BASEAction.001|porteros|CUBO BASEAct
+    7400048: "arbol peque\xF1o decorativo|casa entera.002|casa entera.001|CUBO BASEAction.001|casa
+      entera"
+    7400050: "arbol peque\xF1o decorativo|casa entera.003|casa entera|CUBO BASEAction.001|casa
+      entera|CUB"
+    7400052: "arbol peque\xF1o decorativo|chimeneas.001|chimeneas|CUBO BASEAction.001|chimeneas|CUBO
+      BASE"
+    7400054: "arbol peque\xF1o decorativo|covertizo de arcos.001|covertizo de arcos|CUBO
+      BASEAction.001|c"
+    7400056: "arbol peque\xF1o decorativo|covertizo.001|covertizo|CUBO BASEAction.001|covertizo|CUBO
+      BASE"
+    7400058: "arbol peque\xF1o decorativo|iglesia noisy.001|iglesia noisy|CUBO BASEAction.001|iglesia
+      noi"
+    7400060: "arbol peque\xF1o decorativo|muralla sola.001|muralla sola|CUBO BASEAction.001|muralla
+      sola|"
+    7400062: "arbol peque\xF1o decorativo|porteros.001|porteros|CUBO BASEAction.001|porteros|CUBO
+      BASEAct"
+    7400064: Bush_05.003|casa entera.002|casa entera.001|CUBO BASEAction.001|casa
+      entera
+    7400066: Bush_05.003|casa entera.003|casa entera|CUBO BASEAction.001|casa entera|CUB
+    7400068: Bush_05.003|chimeneas.001|chimeneas|CUBO BASEAction.001|chimeneas|CUBO
+      BASE
+    7400070: Bush_05.003|covertizo de arcos.001|covertizo de arcos|CUBO BASEAction.001|c
+    7400072: Bush_05.003|covertizo.001|covertizo|CUBO BASEAction.001|covertizo|CUBO
+      BASE
+    7400074: Bush_05.003|iglesia noisy.001|iglesia noisy|CUBO BASEAction.001|iglesia
+      noi
+    7400076: Bush_05.003|muralla sola.001|muralla sola|CUBO BASEAction.001|muralla
+      sola|
+    7400078: Bush_05.003|porteros.001|porteros|CUBO BASEAction.001|porteros|CUBO BASEAct
+    7400080: Bush_05.002|casa entera.002|casa entera.001|CUBO BASEAction.001|casa
+      entera
+    7400082: Bush_05.002|casa entera.003|casa entera|CUBO BASEAction.001|casa entera|CUB
+    7400084: Bush_05.002|chimeneas.001|chimeneas|CUBO BASEAction.001|chimeneas|CUBO
+      BASE
+    7400086: Bush_05.002|covertizo de arcos.001|covertizo de arcos|CUBO BASEAction.001|c
+    7400088: Bush_05.002|covertizo.001|covertizo|CUBO BASEAction.001|covertizo|CUBO
+      BASE
+    7400090: Bush_05.002|iglesia noisy.001|iglesia noisy|CUBO BASEAction.001|iglesia
+      noi
+    7400092: Bush_05.002|muralla sola.001|muralla sola|CUBO BASEAction.001|muralla
+      sola|
+    7400094: Bush_05.002|porteros.001|porteros|CUBO BASEAction.001|porteros|CUBO BASEAct
+    7400096: arbustito|casa entera.002|casa entera.001|CUBO BASEAction.001|casa entera
+    7400098: arbustito|casa entera.003|casa entera|CUBO BASEAction.001|casa entera|CUB
+    7400100: arbustito|chimeneas.001|chimeneas|CUBO BASEAction.001|chimeneas|CUBO
+      BASE
+    7400102: arbustito|covertizo de arcos.001|covertizo de arcos|CUBO BASEAction.001|c
+    7400104: arbustito|covertizo.001|covertizo|CUBO BASEAction.001|covertizo|CUBO
+      BASE
+    7400106: arbustito|iglesia noisy.001|iglesia noisy|CUBO BASEAction.001|iglesia
+      noi
+    7400108: arbustito|muralla sola.001|muralla sola|CUBO BASEAction.001|muralla sola|
+    7400110: arbustito|porteros.001|porteros|CUBO BASEAction.001|porteros|CUBO BASEAct
+    7400112: Sun|casa entera.002|casa entera.001|CUBO BASEAction.001|casa entera
+    7400114: Sun|casa entera.003|casa entera|CUBO BASEAction.001|casa entera|CUB
+    7400116: Sun|chimeneas.001|chimeneas|CUBO BASEAction.001|chimeneas|CUBO BASE
+    7400118: Sun|covertizo de arcos.001|covertizo de arcos|CUBO BASEAction.001|c
+    7400120: Sun|covertizo.001|covertizo|CUBO BASEAction.001|covertizo|CUBO BASE
+    7400122: Sun|iglesia noisy.001|iglesia noisy|CUBO BASEAction.001|iglesia noi
+    7400124: Sun|muralla sola.001|muralla sola|CUBO BASEAction.001|muralla sola|
+    7400126: Sun|porteros.001|porteros|CUBO BASEAction.001|porteros|CUBO BASEAct
+    7400128: jardin|casa entera.002|casa entera.001|CUBO BASEAction.001|casa entera
+    7400130: jardin|casa entera.003|casa entera|CUBO BASEAction.001|casa entera|CUB
+    7400132: jardin|chimeneas.001|chimeneas|CUBO BASEAction.001|chimeneas|CUBO BASE
+    7400134: jardin|covertizo de arcos.001|covertizo de arcos|CUBO BASEAction.001|c
+    7400136: jardin|covertizo.001|covertizo|CUBO BASEAction.001|covertizo|CUBO BASE
+    7400138: jardin|iglesia noisy.001|iglesia noisy|CUBO BASEAction.001|iglesia noi
+    7400140: jardin|muralla sola.001|muralla sola|CUBO BASEAction.001|muralla sola|
+    7400142: jardin|porteros.001|porteros|CUBO BASEAction.001|porteros|CUBO BASEAct
+    7400144: arbol silvestre rojizo|casa entera.002|casa entera.001|CUBO BASEAction.001|casa
+      entera
+    7400146: arbol silvestre rojizo|casa entera.003|casa entera|CUBO BASEAction.001|casa
+      entera|CUB
+    7400148: arbol silvestre rojizo|chimeneas.001|chimeneas|CUBO BASEAction.001|chimeneas|CUBO
+      BASE
+    7400150: arbol silvestre rojizo|covertizo de arcos.001|covertizo de arcos|CUBO
+      BASEAction.001|c
+    7400152: arbol silvestre rojizo|covertizo.001|covertizo|CUBO BASEAction.001|covertizo|CUBO
+      BASE
+    7400154: arbol silvestre rojizo|iglesia noisy.001|iglesia noisy|CUBO BASEAction.001|iglesia
+      noi
+    7400156: arbol silvestre rojizo|muralla sola.001|muralla sola|CUBO BASEAction.001|muralla
+      sola|
+    7400158: arbol silvestre rojizo|porteros.001|porteros|CUBO BASEAction.001|porteros|CUBO
+      BASEAct
+    7400160: marmitas|casa entera.002|casa entera.001|CUBO BASEAction.001|casa entera
+    7400162: marmitas|casa entera.003|casa entera|CUBO BASEAction.001|casa entera|CUB
+    7400164: marmitas|chimeneas.001|chimeneas|CUBO BASEAction.001|chimeneas|CUBO BASE
+    7400166: marmitas|covertizo de arcos.001|covertizo de arcos|CUBO BASEAction.001|c
+    7400168: marmitas|covertizo.001|covertizo|CUBO BASEAction.001|covertizo|CUBO BASE
+    7400170: marmitas|iglesia noisy.001|iglesia noisy|CUBO BASEAction.001|iglesia
+      noi
+    7400172: marmitas|muralla sola.001|muralla sola|CUBO BASEAction.001|muralla sola|
+    7400174: marmitas|porteros.001|porteros|CUBO BASEAction.001|porteros|CUBO BASEAct
+    7400176: covertizo|casa entera.002|casa entera.001|CUBO BASEAction.001|casa entera
+    7400178: covertizo|casa entera.003|casa entera|CUBO BASEAction.001|casa entera|CUB
+    7400180: covertizo|chimeneas.001|chimeneas|CUBO BASEAction.001|chimeneas|CUBO
+      BASE
+    7400182: covertizo|covertizo de arcos.001|covertizo de arcos|CUBO BASEAction.001|c
+    7400184: covertizo|covertizo.001|covertizo|CUBO BASEAction.001|covertizo|CUBO
+      BASE
+    7400186: covertizo|iglesia noisy.001|iglesia noisy|CUBO BASEAction.001|iglesia
+      noi
+    7400188: covertizo|muralla sola.001|muralla sola|CUBO BASEAction.001|muralla sola|
+    7400190: covertizo|porteros.001|porteros|CUBO BASEAction.001|porteros|CUBO BASEAct
+    7400192: muralla sola|casa entera.002|casa entera.001|CUBO BASEAction.001|casa
+      entera
+    7400194: muralla sola|casa entera.003|casa entera|CUBO BASEAction.001|casa entera|CUB
+    7400196: muralla sola|chimeneas.001|chimeneas|CUBO BASEAction.001|chimeneas|CUBO
+      BASE
+    7400198: muralla sola|covertizo de arcos.001|covertizo de arcos|CUBO BASEAction.001|c
+    7400200: muralla sola|covertizo.001|covertizo|CUBO BASEAction.001|covertizo|CUBO
+      BASE
+    7400202: muralla sola|iglesia noisy.001|iglesia noisy|CUBO BASEAction.001|iglesia
+      noi
+    7400204: muralla sola|muralla sola.001|muralla sola|CUBO BASEAction.001|muralla
+      sola|
+    7400206: muralla sola|porteros.001|porteros|CUBO BASEAction.001|porteros|CUBO
+      BASEAct
+    7400208: chimeneas|casa entera.002|casa entera.001|CUBO BASEAction.001|casa entera
+    7400210: chimeneas|casa entera.003|casa entera|CUBO BASEAction.001|casa entera|CUB
+    7400212: chimeneas|chimeneas.001|chimeneas|CUBO BASEAction.001|chimeneas|CUBO
+      BASE
+    7400214: chimeneas|covertizo de arcos.001|covertizo de arcos|CUBO BASEAction.001|c
+    7400216: chimeneas|covertizo.001|covertizo|CUBO BASEAction.001|covertizo|CUBO
+      BASE
+    7400218: chimeneas|iglesia noisy.001|iglesia noisy|CUBO BASEAction.001|iglesia
+      noi
+    7400220: chimeneas|muralla sola.001|muralla sola|CUBO BASEAction.001|muralla sola|
+    7400222: chimeneas|porteros.001|porteros|CUBO BASEAction.001|porteros|CUBO BASEAct
+    7400224: casa entera|casa entera.002|casa entera.001|CUBO BASEAction.001|casa
+      entera
+    7400226: casa entera|casa entera.003|casa entera|CUBO BASEAction.001|casa entera|CUB
+    7400228: casa entera|chimeneas.001|chimeneas|CUBO BASEAction.001|chimeneas|CUBO
+      BASE
+    7400230: casa entera|covertizo de arcos.001|covertizo de arcos|CUBO BASEAction.001|c
+    7400232: casa entera|covertizo.001|covertizo|CUBO BASEAction.001|covertizo|CUBO
+      BASE
+    7400234: casa entera|iglesia noisy.001|iglesia noisy|CUBO BASEAction.001|iglesia
+      noi
+    7400236: casa entera|muralla sola.001|muralla sola|CUBO BASEAction.001|muralla
+      sola|
+    7400238: casa entera|porteros.001|porteros|CUBO BASEAction.001|porteros|CUBO BASEAct
+    7400240: covertizo.001|casa entera.002|casa entera.001|CUBO BASEAction.001|casa
+      entera
+    7400242: covertizo.001|casa entera.003|casa entera|CUBO BASEAction.001|casa entera|CUB
+    7400244: covertizo.001|chimeneas.001|chimeneas|CUBO BASEAction.001|chimeneas|CUBO
+      BASE
+    7400246: covertizo.001|covertizo de arcos.001|covertizo de arcos|CUBO BASEAction.001|c
+    7400248: covertizo.001|covertizo.001|covertizo|CUBO BASEAction.001|covertizo|CUBO
+      BASE
+    7400250: covertizo.001|iglesia noisy.001|iglesia noisy|CUBO BASEAction.001|iglesia
+      noi
+    7400252: covertizo.001|muralla sola.001|muralla sola|CUBO BASEAction.001|muralla
+      sola|
+    7400254: covertizo.001|porteros.001|porteros|CUBO BASEAction.001|porteros|CUBO
+      BASEAct
+    7400256: letrero exterior|casa entera.002|casa entera.001|CUBO BASEAction.001|casa
+      entera
+    7400258: letrero exterior|casa entera.003|casa entera|CUBO BASEAction.001|casa
+      entera|CUB
+    7400260: letrero exterior|chimeneas.001|chimeneas|CUBO BASEAction.001|chimeneas|CUBO
+      BASE
+    7400262: letrero exterior|covertizo de arcos.001|covertizo de arcos|CUBO BASEAction.001|c
+    7400264: letrero exterior|covertizo.001|covertizo|CUBO BASEAction.001|covertizo|CUBO
+      BASE
+    7400266: letrero exterior|iglesia noisy.001|iglesia noisy|CUBO BASEAction.001|iglesia
+      noi
+    7400268: letrero exterior|letrero exteriorAction
+    7400270: letrero exterior|muralla sola.001|muralla sola|CUBO BASEAction.001|muralla
+      sola|
+    7400272: letrero exterior|porteros.001|porteros|CUBO BASEAction.001|porteros|CUBO
+      BASEAct
+    7400274: arbol silvestre rojizo.001|letrero exteriorAction
+    7400276: Bush_05.000|letrero exteriorAction
+    7400278: Bush_05.005|letrero exteriorAction
+    7400280: "arbol peque\xF1o decorativo|letrero exteriorAction"
+    7400282: Bush_05.003|letrero exteriorAction
+    7400284: Bush_05.002|letrero exteriorAction
+    7400286: arbustito|letrero exteriorAction
+    7400288: Sun|letrero exteriorAction
+    7400290: jardin|letrero exteriorAction
+    7400292: arbol silvestre rojizo|letrero exteriorAction
+    7400294: marmitas|letrero exteriorAction
+    7400296: covertizo|letrero exteriorAction
+    7400298: muralla sola|letrero exteriorAction
+    7400300: chimeneas|letrero exteriorAction
+    7400302: casa entera|letrero exteriorAction
+    7400304: puertas|casa entera.002|casa entera.001|CUBO BASEAction.001|casa entera
+    7400306: puertas|casa entera.003|casa entera|CUBO BASEAction.001|casa entera|CUB
+    7400308: puertas|chimeneas.001|chimeneas|CUBO BASEAction.001|chimeneas|CUBO BASE
+    7400310: puertas|covertizo de arcos.001|covertizo de arcos|CUBO BASEAction.001|c
+    7400312: puertas|covertizo.001|covertizo|CUBO BASEAction.001|covertizo|CUBO BASE
+    7400314: puertas|iglesia noisy.001|iglesia noisy|CUBO BASEAction.001|iglesia noi
+    7400316: puertas|letrero exteriorAction
+    7400318: puertas|muralla sola.001|muralla sola|CUBO BASEAction.001|muralla sola|
+    7400320: puertas|porteros.001|porteros|CUBO BASEAction.001|porteros|CUBO BASEAct
+    7400322: VENTANA 1.001|Bush_05.001Action
+    7400324: VENTANA 1.001|orquillaAction
+    7400326: VENTANA 1.001|VENTANA 1.001Action
+    7400328: VENTANA 1.001|VENTANA 1.009Action
+    7400330: VENTANA 1.001|VENTANA 1.011Action
+    7400332: marmitas.001|Bush_05.001Action
+    7400334: marmitas.001|orquillaAction
+    7400336: marmitas.001|VENTANA 1.001Action
+    7400338: marmitas.001|VENTANA 1.009Action
+    7400340: marmitas.001|VENTANA 1.011Action
+    7400342: Sphere lowpoly|Bush_05.001Action
+    7400344: Sphere lowpoly|orquillaAction
+    7400346: Sphere lowpoly|VENTANA 1.001Action
+    7400348: Sphere lowpoly|VENTANA 1.009Action
+    7400350: Sphere lowpoly|VENTANA 1.011Action
+    7400352: puertas corredor izquierda|Bush_05.001Action
+    7400354: puertas corredor izquierda|orquillaAction
+    7400356: puertas corredor izquierda|VENTANA 1.001Action
+    7400358: puertas corredor izquierda|VENTANA 1.009Action
+    7400360: puertas corredor izquierda|VENTANA 1.011Action
+    7400362: puertas corredor derecha|Bush_05.001Action
+    7400364: puertas corredor derecha|orquillaAction
+    7400366: puertas corredor derecha|VENTANA 1.001Action
+    7400368: puertas corredor derecha|VENTANA 1.009Action
+    7400370: puertas corredor derecha|VENTANA 1.011Action
+    7400372: puertas vestieres 2|Bush_05.001Action
+    7400374: puertas vestieres 2|orquillaAction
+    7400376: puertas vestieres 2|VENTANA 1.001Action
+    7400378: puertas vestieres 2|VENTANA 1.009Action
+    7400380: puertas vestieres 2|VENTANA 1.011Action
+    7400382: puertas vestieres 1|Bush_05.001Action
+    7400384: puertas vestieres 1|orquillaAction
+    7400386: puertas vestieres 1|VENTANA 1.001Action
+    7400388: puertas vestieres 1|VENTANA 1.009Action
+    7400390: puertas vestieres 1|VENTANA 1.011Action
+    7400392: puertas gimnasio|Bush_05.001Action
+    7400394: puertas gimnasio|orquillaAction
+    7400396: puertas gimnasio|VENTANA 1.001Action
+    7400398: puertas gimnasio|VENTANA 1.009Action
+    7400400: puertas gimnasio|VENTANA 1.011Action
+    7400402: puerta back left out|Bush_05.001Action
+    7400404: puerta back left out|orquillaAction
+    7400406: puerta back left out|VENTANA 1.001Action
+    7400408: puerta back left out|VENTANA 1.009Action
+    7400410: puerta back left out|VENTANA 1.011Action
+    7400412: puerta back right in|Bush_05.001Action
+    7400414: puerta back right in|orquillaAction
+    7400416: puerta back right in|VENTANA 1.001Action
+    7400418: puerta back right in|VENTANA 1.009Action
+    7400420: puerta back right in|VENTANA 1.011Action
+    7400422: puerta back right out|Bush_05.001Action
+    7400424: puerta back right out|orquillaAction
+    7400426: puerta back right out|VENTANA 1.001Action
+    7400428: puerta back right out|VENTANA 1.009Action
+    7400430: puerta back right out|VENTANA 1.011Action
+    7400432: puerta back main in|Bush_05.001Action
+    7400434: puerta back main in|orquillaAction
+    7400436: puerta back main in|VENTANA 1.001Action
+    7400438: puerta back main in|VENTANA 1.009Action
+    7400440: puerta back main in|VENTANA 1.011Action
+    7400442: puerta back main out|Bush_05.001Action
+    7400444: puerta back main out|orquillaAction
+    7400446: puerta back main out|VENTANA 1.001Action
+    7400448: puerta back main out|VENTANA 1.009Action
+    7400450: puerta back main out|VENTANA 1.011Action
+    7400452: puerta church in|Bush_05.001Action
+    7400454: puerta church in|orquillaAction
+    7400456: puerta church in|VENTANA 1.001Action
+    7400458: puerta church in|VENTANA 1.009Action
+    7400460: puerta church in|VENTANA 1.011Action
+    7400462: puerta front left out|Bush_05.001Action
+    7400464: puerta front left out|orquillaAction
+    7400466: puerta front left out|VENTANA 1.001Action
+    7400468: puerta front left out|VENTANA 1.009Action
+    7400470: puerta front left out|VENTANA 1.011Action
+    7400472: puerta front right in|Bush_05.001Action
+    7400474: puerta front right in|orquillaAction
+    7400476: puerta front right in|VENTANA 1.001Action
+    7400478: puerta front right in|VENTANA 1.009Action
+    7400480: puerta front right in|VENTANA 1.011Action
+    7400482: puerta front right out|Bush_05.001Action
+    7400484: puerta front right out|orquillaAction
+    7400486: puerta front right out|VENTANA 1.001Action
+    7400488: puerta front right out|VENTANA 1.009Action
+    7400490: puerta front right out|VENTANA 1.011Action
+    7400492: puerta front main in|Bush_05.001Action
+    7400494: puerta front main in|orquillaAction
+    7400496: puerta front main in|VENTANA 1.001Action
+    7400498: puerta front main in|VENTANA 1.009Action
+    7400500: puerta front main in|VENTANA 1.011Action
+    7400502: puertas corredor superior|Bush_05.001Action
+    7400504: puertas corredor superior|orquillaAction
+    7400506: puertas corredor superior|VENTANA 1.001Action
+    7400508: puertas corredor superior|VENTANA 1.009Action
+    7400510: puertas corredor superior|VENTANA 1.011Action
+    7400512: puerta front main out|Bush_05.001Action
+    7400514: puerta front main out|orquillaAction
+    7400516: puerta front main out|VENTANA 1.001Action
+    7400518: puerta front main out|VENTANA 1.009Action
+    7400520: puerta front main out|VENTANA 1.011Action
+    7400522: puerta front left in |Bush_05.001Action
+    7400524: puerta front left in |orquillaAction
+    7400526: puerta front left in |VENTANA 1.001Action
+    7400528: puerta front left in |VENTANA 1.009Action
+    7400530: puerta front left in |VENTANA 1.011Action
+    7400532: puerta church out|Bush_05.001Action
+    7400534: puerta church out|orquillaAction
+    7400536: puerta church out|VENTANA 1.001Action
+    7400538: puerta church out|VENTANA 1.009Action
+    7400540: puerta church out|VENTANA 1.011Action
+    7400542: puerta back left in|Bush_05.001Action
+    7400544: puerta back left in|orquillaAction
+    7400546: puerta back left in|VENTANA 1.001Action
+    7400548: puerta back left in|VENTANA 1.009Action
+    7400550: puerta back left in|VENTANA 1.011Action
+    7400552: letrero exterior|Bush_05.001Action
+    7400554: letrero exterior|orquillaAction
+    7400556: letrero exterior|VENTANA 1.001Action
+    7400558: letrero exterior|VENTANA 1.009Action
+    7400560: letrero exterior|VENTANA 1.011Action
+    7400562: arbol silvestre rojizo.001|Bush_05.001Action
+    7400564: arbol silvestre rojizo.001|orquillaAction
+    7400566: arbol silvestre rojizo.001|VENTANA 1.001Action
+    7400568: arbol silvestre rojizo.001|VENTANA 1.009Action
+    7400570: arbol silvestre rojizo.001|VENTANA 1.011Action
+    7400572: Bush_05.000|Bush_05.001Action
+    7400574: Bush_05.000|orquillaAction
+    7400576: Bush_05.000|VENTANA 1.001Action
+    7400578: Bush_05.000|VENTANA 1.009Action
+    7400580: Bush_05.000|VENTANA 1.011Action
+    7400582: Bush_05.005|Bush_05.001Action
+    7400584: Bush_05.005|orquillaAction
+    7400586: Bush_05.005|VENTANA 1.001Action
+    7400588: Bush_05.005|VENTANA 1.009Action
+    7400590: Bush_05.005|VENTANA 1.011Action
+    7400592: "arbol peque\xF1o decorativo|Bush_05.001Action"
+    7400594: "arbol peque\xF1o decorativo|orquillaAction"
+    7400596: "arbol peque\xF1o decorativo|VENTANA 1.001Action"
+    7400598: "arbol peque\xF1o decorativo|VENTANA 1.009Action"
+    7400600: "arbol peque\xF1o decorativo|VENTANA 1.011Action"
+    7400602: Bush_05.003|Bush_05.001Action
+    7400604: Bush_05.003|orquillaAction
+    7400606: Bush_05.003|VENTANA 1.001Action
+    7400608: Bush_05.003|VENTANA 1.009Action
+    7400610: Bush_05.003|VENTANA 1.011Action
+    7400612: Bush_05.002|Bush_05.001Action
+    7400614: Bush_05.002|orquillaAction
+    7400616: Bush_05.002|VENTANA 1.001Action
+    7400618: Bush_05.002|VENTANA 1.009Action
+    7400620: Bush_05.002|VENTANA 1.011Action
+    7400622: arbol silvestre rojizo|Bush_05.001Action
+    7400624: arbol silvestre rojizo|orquillaAction
+    7400626: arbol silvestre rojizo|VENTANA 1.001Action
+    7400628: arbol silvestre rojizo|VENTANA 1.009Action
+    7400630: arbol silvestre rojizo|VENTANA 1.011Action
+    7400632: marmitas|Bush_05.001Action
+    7400634: marmitas|orquillaAction
+    7400636: marmitas|VENTANA 1.001Action
+    7400638: marmitas|VENTANA 1.009Action
+    7400640: marmitas|VENTANA 1.011Action
+    7400642: covertizo|Bush_05.001Action
+    7400644: covertizo|orquillaAction
+    7400646: covertizo|VENTANA 1.001Action
+    7400648: covertizo|VENTANA 1.009Action
+    7400650: covertizo|VENTANA 1.011Action
+    7400652: muralla sola|Bush_05.001Action
+    7400654: muralla sola|orquillaAction
+    7400656: muralla sola|VENTANA 1.001Action
+    7400658: muralla sola|VENTANA 1.009Action
+    7400660: muralla sola|VENTANA 1.011Action
+    7400662: chimeneas|Bush_05.001Action
+    7400664: chimeneas|orquillaAction
+    7400666: chimeneas|VENTANA 1.001Action
+    7400668: chimeneas|VENTANA 1.009Action
+    7400670: chimeneas|VENTANA 1.011Action
+    7400672: casa entera|Bush_05.001Action
+    7400674: casa entera|orquillaAction
+    7400676: casa entera|VENTANA 1.001Action
+    7400678: casa entera|VENTANA 1.009Action
+    7400680: casa entera|VENTANA 1.011Action
+    7400682: terreno|Bush_05.001Action
+    7400684: terreno|orquillaAction
+    7400686: terreno|VENTANA 1.001Action
+    7400688: terreno|VENTANA 1.009Action
+    7400690: terreno|VENTANA 1.011Action
+    9500000: //RootNode
+    10800000: Sun
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: JARDIN SU PUTA MADRE
+    second: {fileID: 2100000, guid: faab37f321ee1b7488c5025c939d6152, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material
+    second: {fileID: 2100000, guid: 90fb3f8faf902af4d87ec4a07e5baa27, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.001
+    second: {fileID: 2100000, guid: 04c08cbb3e853e34cb79744df13775cb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: b0d6d2995a7e8684ba6219f59fd7913a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: arbustos
+    second: {fileID: 2100000, guid: 1ce83e34471f6b740b5a254f2d5b82cc, type: 2}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
